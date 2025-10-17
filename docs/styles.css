@@ -67,14 +67,11 @@ h2 {
 }*/
 
 #hero-image {
-    /*width: 100%;*/
-    border-bottom-right-radius: 400px ;
-    border-top-left-radius: 200px ;
-    object-fit: cover;
-    max-width: max-content ;
+  width: 400px;
   height: auto;
-
-    /*position: absolute;*/
+  object-fit: cover;
+  border-bottom-right-radius: 400px;
+  border-top-left-radius: 200px;
 }
 
 #fix { 
