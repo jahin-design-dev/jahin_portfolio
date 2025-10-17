@@ -1,0 +1,22 @@
+Copyright (c) 2025 Jahin Bin Amin
+
+All rights reserved.
+
+This website and its contents (including all HTML, CSS, images, text, and design elements)
+are the intellectual property of Jahin Bin Amin.
+
+You are free to:
+- View and share this website for personal or educational purposes.
+- Use small portions of code for learning or reference, with credit to the author.
+
+You are NOT allowed to:
+- Use, copy, modify, or distribute this website or its design for any **commercial** purpose
+  without prior written permission from the author.
+- Remove or alter copyright notices.
+
+For commercial inquiries, please contact:
+📧 jahinbinamin@gmail.com
+
+THE WEBSITE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NONINFRINGEMENT.
