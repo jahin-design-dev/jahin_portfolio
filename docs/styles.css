@@ -67,7 +67,7 @@ h2 {
 }*/
 
 #hero-image {
-  width: 400px;
+  width: 500px;
   height: auto;
   object-fit: cover;
   border-bottom-right-radius: 400px;
@@ -737,3 +737,4 @@ text-align: left;
     padding: 8px 16px;
   }
 }
+
