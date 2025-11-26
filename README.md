@@ -3,7 +3,7 @@
 Official personal website of **Jahin Bin Amin**  
 Freelance Graphic Designer & Front-end Developer from Bangladesh.
 
-🌐 Live site: https://jahin-design-dev.github.io/jahin/
+🌐 Live site: https://jahin-design-dev.github.io/jahin_portfolio/
 
 ---
 
@@ -26,3 +26,4 @@ is strictly **prohibited** without prior written permission from **Jahin Bin Ami
 ---
 
 © 2025 Jahin Bin Amin. All Rights Reserved.
+
